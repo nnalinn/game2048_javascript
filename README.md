@@ -1,4 +1,28 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+2048 Game 🎮
+This project is a simple implementation of the popular 2048 game in JavaScript. The game allows players to combine numbered tiles to reach the tile with the number 2048. 
+
+🔗 Live Preview
+👉 Play the game https://nnalinn.github.io/game2048_javascript/
+
+🛠️ Technologies Used
+JavaScript
+Git & GitHub Pages
+
+🚀 Getting Started
+
+Clone the repository: git clone https://github.com/nnalinn/game2048_javascript.git cd landing_page_museum
+
+Install dependencies: npm install
+
+Run the project locally: npm start
+
+Features:
+Fully functional 2048 game
+
+Use arrow keys to move the tiles
+
+Tiles combine when they have the same number
+
+The game ends when the board is full and no more moves are possible
+
+The game can be reset at any time
